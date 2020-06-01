@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","common/constants.py","lib/ClickableLabel.py","view.ui","lib/RequestInterceptor.py","lib/Spotify.py","lib/Ui.py","lib/AuthManager.py"]
+}
